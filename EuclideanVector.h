@@ -2,8 +2,7 @@
  * EuclideanVector.h : Header file
  * Contains the variable declaration and class method declaration
  * Class in included in the namespace evec.
- * *  Created on: Aug 31, 2017
- *    zid: 5129975
+ * Created by Arvind Bahl
  */
 
 #ifndef EUCLIDEANVECTOR_H_
